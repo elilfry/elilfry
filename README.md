@@ -6,13 +6,9 @@ I am currently Seeking a student position in software development where I can le
   
 
 - 🌱 Welcome to my GitHub profile .I am currently in my third year of studying Computer Science and Mathematics, with a focus on Cyber Security. This page serves as a portfolio of my academic projects and assignments completed.  
-  
 
   
-  
-
 <br/>  
-
 
 ## My Skill Set  
 <table><tr><td valign="top" width="100%">
@@ -31,13 +27,9 @@ I am currently Seeking a student position in software development where I can le
 
 
 
-
-
-
 </td></tr></table>  
 
 <br/>  
-
 
 ## Connect with me  
 <a href="https://github.com/https://github.com/elilfry" target="_blank">
@@ -51,10 +43,7 @@ I am currently Seeking a student position in software development where I can le
 <br/>  
 
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elilfry&hide_border=true&layout=compact" align="center" /></div>  
 
-<br/>  
 
 
 
