@@ -1,6 +1,6 @@
 ## Hi 👋 , I'm Eli Frydman
 
-### <div align="center"> I am Eli Frydman,Third-year Computer Science student specializing in Cyber Security at Ariel University. Proficient in Java, Python, C, and C++, with additional skills in network protocols, operating systems, algorithms, and data structures.
+### <div align="center"> I am Eli Frydman,M.Sc. Computer Science Student at Ariel University. Proficient in Java, Python, C, and C++, with additional skills in network protocols, operating systems, algorithms, and data structures.
 I am currently Seeking a student position in software development where I can leverage my skills and knowledge to contribute to innovative projects.
 </div>  
   
